@@ -1,4 +1,4 @@
-title: Muxin Wei's Homepage
+title: Muxin Wei
 
 remote_theme: ankitsultana/researcher@gem
 
@@ -9,6 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/muxin-wei"
+footer_text: "Muxin Wei's Homepage"
 
 sass:
     style: compressed
