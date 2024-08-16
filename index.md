@@ -2,24 +2,29 @@
 layout: default
 ---
 
-## About Me
+## About Me [(CV)](cv.pdf)
+Hi! I am Muxin Wei (魏木鑫), currently a first-year master student of Biomedical Engineering at Harbin Institute of Technology, supervised by Prof. [Shuqing Chen](https://homepage.hit.edu.cn/chenshuqing?lang=zh). Before that, I received my bachelor's degree in Computer Science from Dongguang University of Technology in 2022. 
 
-<img class="profile-picture" src="sherlock.jpg">
+My research interests include medical image analysis and multimodal learning.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+## News
+- *2024/06*: &nbsp; Achieved 3rd place in CVPR 2024 [**Segment Anything In Medical Images On Laptop Challenge**](https://www.codabench.org/competitions/1847/).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Education
+- *2023/09 - present*, M.S. in Biomedical Engineering, Harbin Institute of Technology, China.
+- *2018/09 - 2022/06*, B.S. in Computer Science and Technology, Dongguang University of Technology, China.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* [Rep-MedSAM: Towards Real-time and Universal Medical Image Segmentation](https://openreview.net/pdf?id=yqf77n9Kfw) \
+**Muxin Wei**, Shuqing Chen, Silin Wu, Dabin Xu
 
-## Typography
+
+##  Invited Talks
+- *2024-06*, Competition winner presentation for [CVPR 2024 Workshop on Foundation Models for Medical Vision](https://fmv-cvpr24workshop.github.io/).
+
+
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -35,11 +40,12 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
+Here is a blockquote -->
 
-> To a great mind, nothing is little
+
+<!-- > To a great mind, nothing is little
 
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
