@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Muxin Wei's Homepage
+
 ## About Me [(CV)](cv.pdf)
 Hi! I am Muxin Wei (魏木鑫), currently a first-year master student of Biomedical Engineering at Harbin Institute of Technology, supervised by Prof. [Shuqing Chen](https://homepage.hit.edu.cn/chenshuqing?lang=zh). Before that, I received my bachelor's degree in Computer Science from Dongguang University of Technology in 2022. 
 
