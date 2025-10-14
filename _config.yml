@@ -20,7 +20,7 @@ nav:
  - name: "Github"
    link: "https://github.com/muxin-wei"
  - name: "Demo"
-   link: "./demo.md"
+   link: "/demo"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/muxin-wei-90a335332/"
  - name: "Email"

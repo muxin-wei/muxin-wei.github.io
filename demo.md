@@ -2,8 +2,8 @@
 layout: default
 title: Demo
 ---
-
 ## Demo
+
 <!-- ### Segmentation -->
 
 <!-- ![Segmentation GIF](path/to/your/segmentation.gif) -->
